@@ -1,0 +1,39 @@
+{	
+	"movies": [
+		{
+			"title": "电影标题1",
+			"year" : "2001",
+			"posters":{
+				"thumbnail":"http://i.imgur.com/UePbdph.jpg"
+			}
+		},
+		{
+			"title": "电影标题2",
+			"year" : "2002",
+			"posters":{
+				"thumbnail":"http://i.imgur.com/UePbdph.jpg"
+			}
+		},
+		{
+			"title": "电影标题3",
+			"year" : "2003",
+			"posters":{
+				"thumbnail":"http://i.imgur.com/UePbdph.jpg"
+			}
+		},
+		{
+			"title": "电影标题4",
+			"year" : "2004",
+			"posters":{
+				"thumbnail":"http://i.imgur.com/UePbdph.jpg"
+			}
+		},
+		{
+			"title": "电影标题5",
+			"year" : "2005",
+			"posters":{
+				"thumbnail":"http://i.imgur.com/UePbdph.jpg"
+			}
+		}
+	]
+}
